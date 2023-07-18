@@ -10,6 +10,8 @@ Hmm...
 >    - Configurable Weed Farming Patch (not committed yet) [Release Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2866186127)
 >  - Graveyard Keeper (C#)
 >    - ZombieEnhanced: [Repo](https://github.com/saveroo/ZombieEnhanced) | [Release Link](https://www.nexusmods.com/graveyardkeeper/mods/24)
+>  - Scroll of Taiwu (C#)
+>    - Grinding Skipper Feature Collection (https://github.com/saveroo/FBS-TaiwuMod)
 >  - Amazing Cultivation Simulator (C#)
 >    - Private
  
