@@ -1,7 +1,6 @@
-🔭 I’m currently working on Dice rolling fine-tuning simulation Unity Project.. 
-   ..to simulate "Dr. Roger Penrose" Fine-Tune universe theory in a smaller scope.
+🔭 I’m currently working on Dice rolling fine-tuning simulation Unity Project to simulate "Dr. Roger Penrose" Fine-Tune universe theory in a smaller scope.
 
-🎮 **Game Mod:**
+### 🎮 **Game Mod:**
 
 >  - Supreme Ruler Ultimate
 >    - Real time editor: [FRONTEND](https://github.com/saveroo/sr-framework) | [BACKEND](https://github.com/saveroo/sr-framework-api)
@@ -14,7 +13,7 @@
 >  - Amazing Cultivation Simulator
 >    - Private
  
-#### Private Project
+### Private Project
 >  - Zero-Shot Crypto Trading Signal Setup Generator [Tweets](https://twitter.com/SurgaSavero/status/1668197921811202048) | [Free Telegram Chan](https://t.me/CryptoBoltSignal)
 >  - Chess(dot)Com Assistant
 
