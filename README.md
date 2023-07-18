@@ -1,3 +1,5 @@
+- 🔭 I’m currently working on Dice rolling fine-tuning simulation Unity Project to simulate "Dr. Roger Penrose" Fine-Tune universe theory in a smaller scope.
+
 🎮 **Game Mod:**
 
 >  - Supreme Ruler Ultimate
