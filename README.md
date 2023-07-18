@@ -15,7 +15,9 @@ Learn by doing.
  
 ### 🔒 Private Project
 >  - Zero-Shot Crypto Trading Signal Setup Generator [Tweets](https://twitter.com/SurgaSavero/status/1668197921811202048) | [Free Telegram Chan](https://t.me/CryptoBoltSignal)
->  - Chess Assistant :)
+>  - Several Telegram Bot (Dall-e, GPT, Qur'an, Hadith)
+>  - Chrome Extensions (Qur'an Hifdzh Helper, GPT Speech-to-text and enhancement for learning arabic)
+>  - Over-Engineered Chess Assistant :)
 
 ### My Programming Aspiration:
 - Game Modding
@@ -28,10 +30,8 @@ Learn by doing.
 
 🔭 I’m currently working on Dice rolling fine-tuning simulation Unity Project to simulate "Dr. Roger Penrose" Fine-Tune universe theory in a smaller scope.
 
-[![Savero's github stats](https://github-readme-stats.vercel.app/api?username=saveroo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
+[![Savero's github stats](https://github-readme-stats.vercel.app/api?username=saveroo)](https://github.com/anuraghazra/github-readme-stats)
 **saveroo/saveroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
