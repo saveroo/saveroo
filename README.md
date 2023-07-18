@@ -9,7 +9,7 @@
 >    - Harvest Moon Like Farming System (not committed yet/Unreleased) 
 >    - Configurable Weed Farming Patch (not committed yet) [Release Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2866186127)
 >  - Graveyard Keeper
->    - ZombieEnhanced: [Repo](https://github.com/saveroo/ZombieEnchanced)
+>    - ZombieEnhanced: [Repo](https://github.com/saveroo/ZombieEnhanced)
 >  - Amazing Cultivation Simulator
 >    - Private
  
