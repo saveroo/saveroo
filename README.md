@@ -2,22 +2,22 @@ Learn by doing.
 
 ### 🎮 **Game Mod:**
 
->  - Supreme Ruler Ultimate
+>  - Supreme Ruler Ultimate (C#, TS)
 >    - Real time editor: [FRONTEND](https://github.com/saveroo/sr-framework) | [BACKEND](https://github.com/saveroo/sr-framework-api)
->  - Project Zomboid
+>  - Project Zomboid (Lua, Java)
 >    - Custom Mechanism: Cartel Economy [Repo](https://github.com/saveroo/PZ-ZHCartelEconomy)
 >    - Harvest Moon Like Farming System (not committed yet/Unreleased) 
 >    - Configurable Weed Farming Patch (not committed yet) [Release Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2866186127)
->  - Graveyard Keeper 
+>  - Graveyard Keeper (C#)
 >    - ZombieEnhanced: [Repo](https://github.com/saveroo/ZombieEnhanced) | [Release Link](https://www.nexusmods.com/graveyardkeeper/mods/24)
->  - Amazing Cultivation Simulator
+>  - Amazing Cultivation Simulator (C#)
 >    - Private
  
 ### 🔒 Private Project
->  - Zero-Shot Crypto Trading Signal Setup Generator [Tweets](https://twitter.com/SurgaSavero/status/1668197921811202048) | [Free Telegram Chan](https://t.me/CryptoBoltSignal)
->  - Several Telegram Bot (Dall-e, GPT, Qur'an, Hadith)
->  - Chrome Extensions (Qur'an Hifdzh Helper, GPT Speech-to-text and enhancement for learning arabic)
->  - Over-Engineered Chess Assistant :)
+>  - [TS] Zero-Shot Crypto Trading Signal Setup Generator [Tweets](https://twitter.com/SurgaSavero/status/1668197921811202048) | [Free Telegram Chan](https://t.me/CryptoBoltSignal)
+>  - [JS] Several Telegram Bot (Dall-e, GPT, Qur'an, Hadith)
+>  - [Vue] Chrome Extensions (Qur'an Hifdzh Helper, GPT Speech-to-text and enhancement for learning arabic)
+>  - [VueNode] Over-Engineered Chess Assistant :)
 
 ### My Programming Aspiration:
 - Game Modding
