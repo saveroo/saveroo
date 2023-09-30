@@ -32,9 +32,11 @@ Hmm...
 ### Most Language Used
 - C# / TS
 
-🔭 Currently working on WiMS (Well Integrity Management System) with Vue, Capacitor for iOS, Android.
-🔭 I’m currently learning to create Dice rolling fine-tuning simulation Unity Project to simulate "Dr. Roger Penrose" Fine-Tune universe theory in a smaller scope.
-🔭 Also doing some learning by 'patching' | 'reversing' stuff with IDA.
+### Current Session:
+- 🔭 Currently working on WiMS (Well Integrity Management System) with Vue, Capacitor for iOS, Android.
+- 🔭 Rebooting Quranisme Side Project, Single/Multiplayer [Qur'an], [Durusul Lughah] Quizzez and most complete reciter qur'an player 
+- 🔭 I’m currently learning to create Dice rolling fine-tuning simulation Unity Project to simulate "Dr. Roger Penrose" Fine-Tune universe theory in a smaller scope.
+- 🔭 Also doing some learning by 'patching' | 'reversing' stuff with IDA.
 
 <!--
 [![Savero's github stats](https://github-readme-stats.vercel.app/api?username=saveroo)](https://github.com/anuraghazra/github-readme-stats)
