@@ -32,6 +32,7 @@ Hmm...
 ### Most Language Used
 - C# / TS
 
+🔭 Currently working on WiMS (Well Integrity Management System) with Vue, Capacitor for iOS, Android.
 🔭 I’m currently learning to create Dice rolling fine-tuning simulation Unity Project to simulate "Dr. Roger Penrose" Fine-Tune universe theory in a smaller scope.
 🔭 Also doing some learning by 'patching' | 'reversing' stuff with IDA.
 
